@@ -1,5 +1,6 @@
 title: esaevian's wishlist
 description: steve did it
 
+// S13 / Chosen Weapons
 dimwishlist:item=1097616550&perks=1840239774,3142289711,3643424744,4104185692,758092021#notes: Extraordinary Rendition SMG
 dimwishlist:item=1046651176&perks=1840239774,106909392,3436462433,3425386926,758092021#notes: Bottom Dollar HC
